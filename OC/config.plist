@@ -1181,7 +1181,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>npci=0x2000 alcid=1</string>
+				<string>npci=0x2000 alcid=1 shikigva=40</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
